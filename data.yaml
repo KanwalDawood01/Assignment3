@@ -1,0 +1,7 @@
+path: C:/Users/Hp/Downloads/dice_dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 6
+names: [1, 2, 3, 4, 5, 6]
